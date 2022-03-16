@@ -1,0 +1,74 @@
+@charset "utf-8";
+.background{
+	width:900px;
+	height:500px;
+	margin:auto;
+	 }
+.logo {
+	font-size: 36px;
+	color: #000;
+	margin: auto;
+	width: 900px;
+	height: 100px;
+}
+.daohang {
+	font-size: 24px;
+	margin: auto;
+	width: 800px;
+	height: 400px;
+	text-decoration: none;
+	color: #D6D6D6;
+}
+#rcorners2 {
+	border-radius: 8px;
+	border: 2px solid #57A0B9;
+	padding: 20px;
+	width: 900px;
+	height: 40px;
+	background-color: #57A0B9;
+	font-size: 36px;
+	color: #FFF;
+}
+#rcorners3 {
+	border-radius: 8px;
+	border: 2px solid #57A0B9;
+	padding: 20px;
+	width: 800px;
+	height: 20px;
+	background-color: #57A0B9;
+	font-size: 24px;
+	color: #FFF;
+}
+#rcorners4 {
+	border-radius: 8px;
+	border: 2px solid #57A0B9;
+	padding: 20px;
+	width: 350px;
+	height: 20px;
+	background-color: #57A0B9;
+	font-size: 24px;
+	color: #FFF;
+}
+#rcorners5 {
+	border-radius: 8px;
+	border: 2px solid #57A0B9;
+	padding: 20px;
+	width: 800px;
+	height: 20px;
+	background-color: #57A0B9;
+	font-size: 24px;
+	color: #FFF;
+}
+.button {
+    background-color:#57A0B9 ;
+    border: none;
+    color: white;
+    padding: 15px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 8px;
+}
