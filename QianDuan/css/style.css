@@ -1,0 +1,53 @@
+@charset "utf-8";
+.body {
+	margin: auto;
+	height: 1024px;
+	width: 100%;
+	background:#C8E0E8;
+}
+.daohanglan {
+	margin: auto;
+	height: 73px;
+	width: 984px;
+	
+}
+.search {
+	height: 66px;
+	width: 100%;
+	position: absolute;
+	left: 367px;
+	top: 57px;
+	
+}
+.search_form{
+	width:602px;
+	height:42px;
+	}
+.input_text{
+	width:400px;
+	height:30px;
+	text-indent:10px;
+	outline:none;
+	float:left;
+	border-radius:5px;
+    border: 2px solid #57A0B9;
+    padding: 0px; 
+	}
+.input_sub{
+	width:80px;
+	height:33px;
+	background:#57A0B9;
+	border-radius: 8px;
+    border: 2px solid #57A0B9;
+    padding: 0px; 
+	border:0px;
+	float:left;
+	color:#FFF;
+	cursor:pointer;}
+img {
+    border-radius: 8px;}
+.discount {
+	position: absolute;
+	height: 200px;
+	width: 200px;
+}
